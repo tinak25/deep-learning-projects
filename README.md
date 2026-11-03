@@ -41,6 +41,13 @@ deep-learning-projects/
 └── 04-distilgpt2-lora-finetuning/
 ```
 
+## Running a project
+
+    pip install -r requirements.txt
+    jupyter notebook
+
+Projects 03 and 04 train on a GPU and were run in Google Colab; projects 01 and 02 run on a normal laptop CPU in under a minute.
+
 ## Tech stack
 
 - Python, NumPy, PyTorch, torchvision
