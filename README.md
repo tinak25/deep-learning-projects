@@ -2,6 +2,8 @@
 
 A portfolio of independent deep learning projects, progressing from implementing backpropagation by hand through to applied computer vision and large language model fine-tuning. Each project is self-contained in its own folder with its own README, notebook, and (where applicable) an exported PDF.
 
+![Results at a glance: CNN accuracy and DistilGPT2 perplexity](images/results_summary.png)
+
 ## Projects
 
 ### [01 — Backpropagation From Scratch](./01-backprop-from-scratch)

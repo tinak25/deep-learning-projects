@@ -60,5 +60,5 @@ Qualitatively, both adapted models shifted generation toward domain-specific lan
 
 ## Files
 
-- `DistilGPT2-LoRA-Finetuning-Solution.ipynb` — full notebook: data preparation, pretrained baseline, full fine-tuning, LoRA adaptation, results tables, and analysis
-- `DistilGPT2-LoRA-Finetuning-Output.pdf` — exported PDF of the notebook
+- `distilgpt2_lora_finetuning.ipynb` — full notebook: data preparation, pretrained baseline, full fine-tuning, LoRA adaptation, results tables, and analysis
+- `distilgpt2_lora_finetuning.pdf` — exported PDF of the notebook

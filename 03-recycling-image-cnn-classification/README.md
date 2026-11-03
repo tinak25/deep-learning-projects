@@ -57,5 +57,5 @@ As a standalone extension, part of Carlini et al. (2024), *Stealing Part of a Pr
 
 ## Files
 
-- `Recycling-Image-Classification-Solution.ipynb` — full notebook with experiments, results tables, confusion matrices, and written analysis
-- `Recycling-Image-Classification-Output.pdf` — exported PDF of the notebook
+- `recycling_image_classification.ipynb` — full notebook with experiments, results tables, confusion matrices, and written analysis
+- `recycling_image_classification.pdf` — exported PDF of the notebook
